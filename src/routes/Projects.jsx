@@ -6,23 +6,36 @@ export default function Projects() {
         <p className="text-gray-500 text-xl mb-[5vh]">
           A basic todo list in which you can delete, add or mark todos
         </p>
-        <a
-          href="https://todos-kappa-six.vercel.app/"
-          className="px-[6px] py-[6px] bg-[#7395AE] min-w-max rounded-lg text-white underline"
-        >
-          View this app on Vercel
-        </a>
+        <div className="flex flex-col w-[50%]">
+          <div className="flex">
+            <a
+              href="https://todos-kappa-six.vercel.app/"
+              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold"
+            >
+              View this app on Vercel
+            </a>
+          </div>
+          <div className="flex">
+            <a
+              href="https://github.com/1kolasik1/todos"
+              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold mt-[2vh]"
+            >
+              View code at GitHub
+            </a>
+          </div>
+        </div>
+
         <img
           src="/todo.gif"
           alt="gif"
           className="w-[80%] sm:w-[70%] my-[5vh]"
         ></img>
         <div className="flex items-center">
-          <p className="text-gray-500 text-xl">Made with:</p>
-          <p className="ml-[3vh] px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
+          <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
+          <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
             React
           </p>
-          <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+          <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
             TailWind
           </p>
         </div>
@@ -34,21 +47,37 @@ export default function Projects() {
             I created a multi-page application using the external API and the
             react-router-dom library.
           </p>
-          <a
-            href="#"
-            className="px-[6px] py-[6px] bg-[#7395AE] min-w-max rounded-lg text-white underline"
-          >
-            View this app on Vercel
-          </a>
+          <div className="flex flex-col w-[50%]">
+            <div className="flex">
+              <a
+                href="https://api-blush-beta.vercel.app/"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold"
+              >
+                View this app on Vercel
+              </a>
+            </div>
+            <div className="flex">
+              <a
+                href="https://github.com/1kolasik1/api"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold mt-[2vh]"
+              >
+                View code at GitHub
+              </a>
+            </div>
+          </div>
+
           <img
             src="/redux.gif"
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
           <div className="flex">
-            <p className="text-gray-500 text-xl">Made with:</p>
+            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
               React
+            </p>
+            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+              TailWind
             </p>
           </div>
         </div>
@@ -61,23 +90,36 @@ export default function Projects() {
             displayed exactly for that user. To do this, you need to register
             and log in
           </p>
-          <a
-            href="#"
-            className="px-[6px] py-[6px] bg-[#7395AE] min-w-max rounded-lg text-white underline"
-          >
-            View this app on Vercel
-          </a>
+          <div className="flex flex-col w-[50%]">
+            <div className="flex">
+              <a
+                href="#"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold"
+              >
+                View this app on Vercel
+              </a>
+            </div>
+            <div className="flex">
+              <a
+                href="https://github.com/1kolasik1/todos"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold mt-[2vh]"
+              >
+                View code at GitHub
+              </a>
+            </div>
+          </div>
+
           <img
             src="/notes.gif"
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
           <div className="flex">
-            <p className="text-gray-500 text-xl">Made with:</p>
+            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
               React
             </p>
-            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+            <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
               TailWind
             </p>
           </div>
@@ -90,19 +132,32 @@ export default function Projects() {
             I created a multi-page application using the external API , Redux ,
             TailWind and the react-router-dom library.
           </p>
-          <a
-            href="#"
-            className="px-[6px] py-[6px] bg-[#7395AE] min-w-max rounded-lg text-white underline"
-          >
-            View this app on Vercel
-          </a>
+          <div className="flex flex-col">
+            <div className="flex">
+              <a
+                href="https://redux2-three.vercel.app/"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold"
+              >
+                View this app on Vercel
+              </a>
+            </div>
+            <div className="flex">
+              <a
+                href="https://github.com/1kolasik1/redux2"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold mt-[2vh]"
+              >
+                View code at GitHub
+              </a>
+            </div>
+          </div>
+
           <img
             src="/redux.gif"
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
-          <div className="flex">
-            <p className="text-gray-500 text-xl">Made with:</p>
+          <div className="flex pb-[1vh]">
+            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white">
               React
             </p>
@@ -111,31 +166,6 @@ export default function Projects() {
             </p>
             <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
               TailWind
-            </p>
-          </div>
-        </div>
-      </div>
-      <div className="ml-[1vh] sm:ml-0">
-        <div className="mt-[3vh]">
-          <p className="text-white text-2xl">Online store:</p>
-          <p className="text-gray-500 text-xl mb-[5vh]">
-            This is the most common online store, created with the help of React
-          </p>
-          <a
-            href="#"
-            className="px-[6px] py-[6px] bg-[#7395AE] min-w-max rounded-lg text-white underline"
-          >
-            View this app on Vercel
-          </a>
-          <img
-            src="/lamoda.gif"
-            alt="gif"
-            className="w-[80%] sm:w-[70%] my-[5vh]"
-          ></img>
-          <div className="flex">
-            <p className="text-gray-500 text-xl">Made with:</p>
-            <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white mb-[5vh]">
-              React
             </p>
           </div>
         </div>

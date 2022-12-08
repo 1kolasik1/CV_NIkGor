@@ -21,7 +21,7 @@ export default function MyInfo() {
           to={"/projects"}
           className="py-[1vh] px-[2vh] text-white bg-[#7395AE] font-bold  rounded-xl mt-[3vh]"
         >
-          Check projects
+          My projects
         </Link>
       </div>
     </div>
