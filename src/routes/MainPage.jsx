@@ -25,7 +25,7 @@ export default function MainPage() {
           <MyLinks />
           <MySkills />
         </div>
-        <div className="hidden sm:block sm:mr-[0] sm:mt-[5vh]">
+        <div className="hidden md:block sm:mr-[15vh] sm:mt-[5vh]">
           <Link
             to={"/projects"}
             className="text-white text-3xl  bg-[#7395AE] rounded-xl px-[1vh] py-[1vh] ml-0 mb-0 sm:mb-[3vh] sm:ml-[1vh] mt-[5vh] sm:underline"

@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <div className="ml-0 sm:ml-[1vh] mt-0 sm:mt-[3vh]">
-      <div className="ml-[1vh] sm:ml-0">
+      <div className="ml-[1vh] sm:ml-0 mt-[2vh]">
         <p className="text-white text-2xl">Todo List:</p>
         <p className="text-gray-500 text-xl mb-[5vh]">
           A basic todo list in which you can delete, add or mark todos
@@ -93,7 +93,7 @@ export default function Projects() {
           <div className="flex flex-col w-[50%]">
             <div className="flex">
               <a
-                href="#"
+                href="https://notes-cyan.vercel.app/"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold"
               >
                 View this app on Vercel
@@ -116,11 +116,14 @@ export default function Projects() {
           ></img>
           <div className="flex">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
-            <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
+            <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white">
               React
             </p>
             <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
               TailWind
+            </p>
+            <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+              JSON
             </p>
           </div>
         </div>
