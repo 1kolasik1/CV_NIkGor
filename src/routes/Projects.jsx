@@ -71,7 +71,7 @@ export default function Projects() {
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
-          <div className="flex">
+          <div className="flex items-center">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
               React
@@ -114,7 +114,7 @@ export default function Projects() {
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
-          <div className="flex">
+          <div className="flex items-center">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white">
               React
@@ -159,7 +159,7 @@ export default function Projects() {
             alt="gif"
             className="w-[80%] sm:w-[70%] my-[5vh]"
           ></img>
-          <div className="flex pb-[1vh]">
+          <div className="flex items-center pb-[1vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white">
               React

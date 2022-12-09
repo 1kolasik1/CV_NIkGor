@@ -24,8 +24,8 @@ export default function MyLinks() {
       </div>
       <div className="flex items-center text-2xl underline mr-[2vh]">
         <img src="/mail.png" alt="icon" className="w-[5vh]"></img>
-        <a href="https://gmail.com" className="text-white">
-          gorbatcevichkolya@gmail.com
+        <a href="mailto:gorbatcevichkolya@gmail.com" className="text-white">
+          GMail
         </a>
       </div>
     </div>
