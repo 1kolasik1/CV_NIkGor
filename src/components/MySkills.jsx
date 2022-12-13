@@ -1,6 +1,6 @@
 export default function MySkills() {
   return (
-    <div className="ml-[1vh] sm:ml-[10vh] mt-[5vh]">
+    <div className="ml-[1vh] sm:ml-[5vh] mt-[5vh]">
       <div>
         <div className="flex flex-col">
           <p className="text-white text-3xl mb-[1vh]">Languages:</p>
@@ -28,6 +28,18 @@ export default function MySkills() {
               alt="icon"
               className="w-[5vh] ml-[1vh]"
             ></img>
+          </div>
+          <div className="flex items-center text-gray-500 text-2xl mb-[1vh]">
+            <p>C++</p>
+            <img src="/c++.png" alt="icon" className="w-[5vh] ml-[1vh]"></img>
+          </div>
+          <div className="flex items-center text-gray-500 text-2xl mb-[1vh]">
+            <p>HTML</p>
+            <img src="/html.png" alt="icon" className="w-[5vh] ml-[1vh]"></img>
+          </div>
+          <div className="flex items-center text-gray-500 text-2xl mb-[1vh]">
+            <p>CSS</p>
+            <img src="/css.png" alt="icon" className="w-[5vh] ml-[1vh]"></img>
           </div>
         </div>
       </div>
