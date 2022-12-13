@@ -14,7 +14,7 @@ export default function Projects() {
                 <img
                   src="/redux.gif"
                   alt="gif"
-                  className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-6"
+                  className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-5"
                 ></img>
               </a>
             </div>
@@ -57,7 +57,7 @@ export default function Projects() {
                 <img
                   src="/notes.gif"
                   alt="gif"
-                  className="w-[80%] sm:w-[90%] mb-[3vh]  transition-all duration-300 hover:scale-105 hover:translate-x-6"
+                  className="w-[80%] sm:w-[90%] mb-[3vh]  transition-all duration-300 hover:scale-105 hover:translate-x-5"
                 ></img>
               </a>
             </div>
@@ -96,7 +96,7 @@ export default function Projects() {
                 <img
                   src="/redux.gif"
                   alt="gif"
-                  className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-6"
+                  className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-5"
                 ></img>
               </a>
             </div>
@@ -133,7 +133,7 @@ export default function Projects() {
               <img
                 src="/todo.gif"
                 alt="gif"
-                className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-6"
+                className="w-[80%] sm:w-[90%] mb-[3vh] transition-all duration-300 hover:scale-105 hover:translate-x-5"
               ></img>
             </a>
           </div>
