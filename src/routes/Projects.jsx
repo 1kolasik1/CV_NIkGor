@@ -10,7 +10,7 @@ export default function Projects() {
           </p>
           <div className="flex flex-col">
             <div className="flex">
-              <a href="https://redux2-three.vercel.app/" target="_blank">
+              <a href="https://redux-api-theta.vercel.app/" target="_blank">
                 <img
                   src="/redux.gif"
                   alt="gif"
@@ -20,7 +20,7 @@ export default function Projects() {
             </div>
             <div className="flex mb-[1vh]">
               <a
-                href="https://github.com/1kolasik1/redux2"
+                href="https://github.com/1kolasik1/Redux_API"
                 target="_blank"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
               >
@@ -53,7 +53,7 @@ export default function Projects() {
           </p>
           <div className="flex flex-col">
             <div className="flex">
-              <a href="https://notes-cyan.vercel.app/" target="_blank">
+              <a href="https://app-for-notes.vercel.app/login" target="_blank">
                 <img
                   src="/notes.gif"
                   alt="gif"
@@ -63,7 +63,7 @@ export default function Projects() {
             </div>
             <div className="flex mb-[1vh]">
               <a
-                href="https://github.com/1kolasik1/todos"
+                href="https://github.com/1kolasik1/app_for_notes"
                 target="_blank"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
               >
@@ -92,7 +92,7 @@ export default function Projects() {
           </p>
           <div className="flex flex-col ">
             <div className="flex">
-              <a href="https://api-blush-beta.vercel.app/" target="_blank">
+              <a href="https://api-spi.vercel.app/" target="_blank">
                 <img
                   src="/redux.gif"
                   alt="gif"
@@ -102,7 +102,7 @@ export default function Projects() {
             </div>
             <div className="flex">
               <a
-                href="https://github.com/1kolasik1/api"
+                href="https://github.com/1kolasik1/API-SPI"
                 target="_blank"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
               >
