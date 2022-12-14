@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
-    <div className="ml-0 sm:ml-[1vh] mt-0 sm:mt-[3vh]">
-      <div className="ml-[1vh] sm:ml-0">
+    <div className="ml-0 sm:ml-[1vh]">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Redux & API:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -29,7 +29,7 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="flex items-center pb-[1vh]">
+          <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white">
               React
@@ -43,7 +43,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Notes:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -72,7 +72,7 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="flex items-center">
+          <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white">
               React
@@ -83,7 +83,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">API & SPA:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -111,7 +111,7 @@ export default function Projects() {
             </div>
           </div>
 
-          <div className="flex items-center">
+          <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
               React
@@ -122,7 +122,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0 mt-[2vh]">
+      <div className="ml-[1vh] sm:ml-0 mt-[2vh] border-b-2 border-collapse mr-[1vh] sm:mr-0">
         <p className="text-white text-3xl font-semibold">Todo List:</p>
         <p className="text-gray-500 text-xl mb-[2vh]">
           A basic todo list in which you can delete, add or mark todos
@@ -148,7 +148,7 @@ export default function Projects() {
           </div>
         </div>
 
-        <div className="flex items-center">
+        <div className="flex items-center pb-[3vh]">
           <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
           <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
             React
