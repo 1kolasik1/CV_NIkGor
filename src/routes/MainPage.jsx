@@ -3,7 +3,6 @@ import MyLinks from "../components/MyLinks";
 import MyInfo from "../components/MyInfo";
 import MySkills from "../components/MySkills";
 import Education from "../components/Education";
-import { Link } from "react-router-dom";
 
 export default function MainPage() {
   return (
