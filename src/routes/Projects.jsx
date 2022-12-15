@@ -1,7 +1,7 @@
 export default function Projects() {
   return (
     <div className="ml-0 sm:ml-[1vh]">
-      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Redux & API:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -22,7 +22,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/Redux_API"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
               >
                 View code
               </a>
@@ -31,19 +31,19 @@ export default function Projects() {
 
           <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
-            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white">
+            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
-            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+            <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-xl text-white ml-[1vh]">
               Redux
             </p>
-            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white ml-[1vh]">
               React Router v6
             </p>
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Notes:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -65,7 +65,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/app_for_notes"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
               >
                 View code
               </a>
@@ -74,16 +74,16 @@ export default function Projects() {
 
           <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
-            <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-lg text-white">
+            <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
-            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg ml-[1vh] text-white">
+            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl ml-[1vh] text-white">
               React Router v6
             </p>
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0 border-b-2 border-collapse mr-[1vh] sm:mr-0">
+      <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">API & SPA:</p>
           <p className="text-gray-500 text-xl mb-[2vh]">
@@ -104,7 +104,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/API-SPI"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
               >
                 View code
               </a>
@@ -113,16 +113,16 @@ export default function Projects() {
 
           <div className="flex items-center pb-[3vh]">
             <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
-            <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
+            <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
-            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white ml-[1vh]">
+            <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white ml-[1vh]">
               React Router v6
             </p>
           </div>
         </div>
       </div>
-      <div className="ml-[1vh] sm:ml-0 mt-[2vh] border-b-2 border-collapse mr-[1vh] sm:mr-0">
+      <div className="ml-[1vh] sm:ml-0 mt-[2vh] border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <p className="text-white text-3xl font-semibold">Todo List:</p>
         <p className="text-gray-500 text-xl mb-[2vh]">
           A basic todo list in which you can delete, add or mark todos
@@ -141,7 +141,7 @@ export default function Projects() {
             <a
               href="https://github.com/1kolasik1/todos"
               target="_blank"
-              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-lg text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
+              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
             >
               View code
             </a>
@@ -150,7 +150,7 @@ export default function Projects() {
 
         <div className="flex items-center pb-[3vh]">
           <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
-          <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-lg text-white">
+          <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white">
             React
           </p>
         </div>
