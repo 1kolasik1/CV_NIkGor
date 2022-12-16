@@ -1,4 +1,4 @@
-import { NavLink, Link, Outlet } from "react-router-dom";
+import { Link, Outlet } from "react-router-dom";
 export default function Layout() {
   return (
     <div className="min-h-screen bg-gray-700 w-[100%] md:w-[80%] mx-auto">

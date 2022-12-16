@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 export default function MyInfo() {
   return (
     <div className="flex flex-col justify-center items-center ml-[1vh] lg:flex-row sm:justify-start gap-4 py-[3vh] sm:border-b-2 sm:border-gray-400">

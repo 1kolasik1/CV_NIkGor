@@ -6,6 +6,8 @@ export default function MyLinks() {
         <img src="/github.png" alt="icon" className="w-[5vh]"></img>
         <a
           href="https://github.com/1kolasik1"
+          target="_blank"
+          rel="noreferrer"
           className="text-white hover:text-[#7395AE] hover:transition-all hover:duration-300"
         >
           GitHub
@@ -15,6 +17,8 @@ export default function MyLinks() {
         <img src="/telegram.png" alt="icon" className="w-[5vh] "></img>
         <a
           href="https://t.me/nikgor1"
+          target="_blank"
+          rel="noreferrer"
           className="text-white hover:text-[#7395AE] hover:transition-all hover:duration-300"
         >
           Telegram
@@ -24,6 +28,8 @@ export default function MyLinks() {
         <img src="/inst.png" alt="icon" className="w-[5vh]"></img>
         <a
           href="https://www.instagram.com/_nikgor_/"
+          target="_blank"
+          rel="noreferrer"
           className="text-white hover:text-[#7395AE] hover:transition-all hover:duration-300"
         >
           Instagram
@@ -33,6 +39,8 @@ export default function MyLinks() {
         <img src="/mail.png" alt="icon" className="w-[5vh]"></img>
         <a
           href="mailto:gorbatcevichkolya@gmail.com"
+          target="_blank"
+          rel="noreferrer"
           className="text-white hover:text-[#7395AE] hover:transition-all hover:duration-300"
         >
           GMail

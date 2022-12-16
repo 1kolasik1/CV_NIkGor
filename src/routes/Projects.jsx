@@ -10,7 +10,11 @@ export default function Projects() {
           </p>
           <div className="flex flex-col">
             <div className="flex">
-              <a href="https://redux-api-theta.vercel.app/" target="_blank">
+              <a
+                href="https://redux-api-theta.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img
                   src="/redux.gif"
                   alt="gif"
@@ -22,6 +26,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/Redux_API"
                 target="_blank"
+                rel="noreferrer"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
@@ -53,7 +58,11 @@ export default function Projects() {
           </p>
           <div className="flex flex-col">
             <div className="flex">
-              <a href="https://app-for-notes.vercel.app/login" target="_blank">
+              <a
+                href="https://app-for-notes.vercel.app/login"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img
                   src="/notes.gif"
                   alt="gif"
@@ -65,6 +74,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/app_for_notes"
                 target="_blank"
+                rel="noreferrer"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
@@ -92,7 +102,11 @@ export default function Projects() {
           </p>
           <div className="flex flex-col ">
             <div className="flex">
-              <a href="https://api-spi.vercel.app/" target="_blank">
+              <a
+                href="https://api-spi.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <img
                   src="/redux.gif"
                   alt="gif"
@@ -104,6 +118,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/API-SPI"
                 target="_blank"
+                rel="noreferrer"
                 className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
@@ -129,7 +144,11 @@ export default function Projects() {
         </p>
         <div className="flex flex-col">
           <div className="flex">
-            <a href="https://todos-kappa-six.vercel.app/" target="_blank">
+            <a
+              href="https://todos-kappa-six.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
               <img
                 src="/todo.gif"
                 alt="gif"
@@ -141,6 +160,7 @@ export default function Projects() {
             <a
               href="https://github.com/1kolasik1/todos"
               target="_blank"
+              rel="noreferrer"
               className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:bg-[#47718f]"
             >
               View code
