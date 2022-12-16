@@ -4,7 +4,7 @@ export default function Projects() {
       <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Redux & API:</p>
-          <p className="text-gray-500 text-xl mb-[2vh]">
+          <p className="text-gray-400 text-xl mb-[2vh]">
             I created a multi-page application using the external API , Redux ,
             TailWind and the react-router-dom library.
           </p>
@@ -22,7 +22,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/Redux_API"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
               </a>
@@ -30,7 +30,7 @@ export default function Projects() {
           </div>
 
           <div className="flex items-center pb-[3vh]">
-            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
+            <p className="text-gray-400 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[6px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
@@ -46,7 +46,7 @@ export default function Projects() {
       <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">Notes:</p>
-          <p className="text-gray-500 text-xl mb-[2vh]">
+          <p className="text-gray-400 text-xl mb-[2vh]">
             I created a list of notes for users. Each user's notes will be
             displayed exactly for that user. To do this, you need to register
             and log in
@@ -65,7 +65,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/app_for_notes"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
               </a>
@@ -73,7 +73,7 @@ export default function Projects() {
           </div>
 
           <div className="flex items-center pb-[3vh]">
-            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
+            <p className="text-gray-400 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[6px] py-[7px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
@@ -86,7 +86,7 @@ export default function Projects() {
       <div className="ml-[1vh] sm:ml-0 border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <div className="mt-[3vh]">
           <p className="text-white text-3xl font-semibold">API & SPA:</p>
-          <p className="text-gray-500 text-xl mb-[2vh]">
+          <p className="text-gray-400 text-xl mb-[2vh]">
             I created a multi-page application using the external API and the
             react-router-dom library.
           </p>
@@ -104,7 +104,7 @@ export default function Projects() {
               <a
                 href="https://github.com/1kolasik1/API-SPI"
                 target="_blank"
-                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:text-gray-700"
+                className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh]  hover:transition-all hover:duration-300 hover:bg-[#47718f]"
               >
                 View code
               </a>
@@ -112,7 +112,7 @@ export default function Projects() {
           </div>
 
           <div className="flex items-center pb-[3vh]">
-            <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
+            <p className="text-gray-400 text-xl mr-[1vh]">Made with:</p>
             <p className="px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white">
               React
             </p>
@@ -124,7 +124,7 @@ export default function Projects() {
       </div>
       <div className="ml-[1vh] sm:ml-0 mt-[2vh] border-b-2 border-gray-400 mr-[1vh] sm:mr-0">
         <p className="text-white text-3xl font-semibold">Todo List:</p>
-        <p className="text-gray-500 text-xl mb-[2vh]">
+        <p className="text-gray-400 text-xl mb-[2vh]">
           A basic todo list in which you can delete, add or mark todos
         </p>
         <div className="flex flex-col">
@@ -141,7 +141,7 @@ export default function Projects() {
             <a
               href="https://github.com/1kolasik1/todos"
               target="_blank"
-              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:text-gray-700"
+              className="px-[3vh] py-[7px] bg-[#7395AE] min-w-max rounded-full text-white underline font-bold my-[2vh] hover:transition-all hover:duration-300 hover:bg-[#47718f]"
             >
               View code
             </a>
@@ -149,7 +149,7 @@ export default function Projects() {
         </div>
 
         <div className="flex items-center pb-[3vh]">
-          <p className="text-gray-500 text-xl mr-[1vh]">Made with:</p>
+          <p className="text-gray-400 text-xl mr-[1vh]">Made with:</p>
           <p className=" px-[5px] py-[5px] bg-slate-600 min-w-max rounded-xl text-white">
             React
           </p>

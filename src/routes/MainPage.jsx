@@ -20,7 +20,7 @@ export default function MainPage() {
               <p className="text-white text-5xl mb-[1vh] font-extrabold">
                 Nickolay Gorbatsevich
               </p>
-              <p className="text-gray-500 text-2xl mb-[1vh] font-semibold">
+              <p className="text-gray-400 text-2xl mb-[1vh] font-semibold">
                 FrontEnd developer
               </p>
             </div>
@@ -33,7 +33,7 @@ export default function MainPage() {
               to={"/projects"}
               className="py-[1vh] px-[2vh] text-white bg-[#7395AE] font-bold text-xl rounded-full mt-[3vh]"
             >
-              My projects
+              MyProjects
             </Link>
           </div>
           <div className="hidden md:block">
