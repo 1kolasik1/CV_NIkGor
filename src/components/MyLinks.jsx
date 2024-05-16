@@ -46,6 +46,17 @@ export default function MyLinks() {
           GMail
         </a>
       </div>
+      <div className="flex items-center text-2xl underline mr-[2vh]">
+        <img src="/phone.png" alt="icon" className="w-[5vh]"></img>
+        <a
+          href=""
+          target="_blank"
+          rel="noreferrer"
+          className="text-white hover:text-[#7395AE] hover:transition-all hover:duration-300"
+        >
+          +375 44 781 23 57
+        </a>
+      </div>
     </div>
   );
 }
